@@ -6,4 +6,5 @@
   "features": { 
     "ghcr.io/devcontainers/features/docker-in-docker:1": {} 
   }, 
-  "forwardPorts": [9000] } 
+  "forwardPorts": [9000] 
+} 
